@@ -1,0 +1,6 @@
+@NguyenXuanPhu_KTGK_LTDD_HostAddress = http://localhost:5090
+
+GET {{NguyenXuanPhu_KTGK_LTDD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

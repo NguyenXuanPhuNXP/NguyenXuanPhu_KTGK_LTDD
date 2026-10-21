@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+.vs/
+.tools/
+.env
+.env.*
+!.env.example
+*.csproj.user
+artifacts/
+**/.local/
